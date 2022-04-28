@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Course</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="dontAcc">Dont have an Account?</string>
+    <string name="signIn">Sign in</string>
+
+</resources>
